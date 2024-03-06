@@ -1,0 +1,42 @@
+{{ define "main" }}
+    {{ .Content }}
+    {{ range .Params.Projects }}
+		<br>
+		<h2 style="margin-bottom:0">{{ .title }}</h2>
+		<i>{{ .subtitle }} </i><br><br>
+		{{ if .image }}
+			<div class="shrink" itemprop="image"
+
+         itemscope itemtype="http://schema.org/ImageObject">
+        <!-- crop images to 4:3 -->
+        <img style="aspect-ratio:4/3; object-fit:cover; width:80%; display:flex" alt="image for {{ .title }}"
+             itemprop="url" src="{{ .image }}"
+             class="w-full"/>
+			<br>
+			</div>
+			{{ end }}
+		<b>{{ .question }}</b><br><br>
+		<p>{{ .description | safeHTML }}</p>
+    {{ end }}
+	<hr>
+	<h2>Posters and Presentations</h2>
+	<p>These are oral presentations that I have given at conferences, along with posters that I have (co)authored.</p>
+	<ul>
+	{{ range .Params.Presentations }}
+	<li><p> {{ with $authorlist := .authors}}
+			{{ range $author_index, $author_val := $authorlist }}
+        		{{ if $author_val.me }} 
+					<b> 
+				{{ end }}
+            	<span itemprop="author">{{- $author_val.name -}}</span>
+            	{{- /* Add comma if not last author */ -}}
+				{{- if lt $author_index (sub (len $authorlist) 1) -}},{{ else }}.{{- end -}}
+        		{{ if $author_val.me }}</b>{{ end }}
+		{{ end }}
+		{{ end }}
+		<i>{{ .title }}</i>. {{ .type }} at {{ .venue }}; {{ .location }}. {{ .year }}. 
+			{{ if .awards }}<b>{{ .awards }}</b>{{ end }}
+			</p>
+		</li>	
+	{{ end }}</ul>
+{{ end }}
