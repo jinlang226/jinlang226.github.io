@@ -75,15 +75,15 @@ address:
  
 ---
 
-# About Me
-I am wjl
+<!-- # About Me -->
+I’m Jinlang Wang, a second year Computer Science PhD student at the University of Wisconsin-Madison, advised by [Tej Chajed](https://www.chajed.io/). I am interested in the field of distributed systems verification. Also, I am learning Dafny, Coq, and Iris.
 
+# Education
+- **[in-progress] PhD** University of Wisconsin, Madison, 2022-?
+- **Computer Science** University of Pittsburgh, 2018-2022
 
-## Education
-
-* **[in-progress] PhD** University of Wisconsin, Madison, 2022-present
-* **Computer Science** University of Pittsburgh, 2018-2022
-
+# Personal
+My favorite composer is Franz Liszt, and my favorite piece is [Hungarian Rhapsody No. 2](https://www.youtube.com/watch?v=QpEfHVFilRc&ab_channel=WBKids).
 
 <!-- ## Experiences -->
 <!-- * **Intern**, NASA Langley Research Center, August-December 2023 -->
