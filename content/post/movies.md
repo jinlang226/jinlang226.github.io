@@ -1,21 +1,14 @@
 ---
-title: "temp"
-date: 2018-05-09T00:00:00-00:00
+title: "movies"
+date: 2024-03-10
 draft: false
 categories:
-  - Post
-  - Metaphorsum
+  - movie
 tags:
-  - Actor
-  - Visitor
-  - Snowflakes
-  - Interest
+  - movie 
 imgname:
     name: "/img/phalaenopsis-wins-third/IMG_1548.jpg"
 ---
-{{< figure src="/img/phalaenopsis-wins-third/IMG_1548.jpg" >}}
-
-
 <!-- +++
 date = "2018-05-09"
 title = "The actor is a gander"
@@ -27,5 +20,4 @@ readingtime = true
 aliases = ["2021/06/actor/", "2021/08/gander/"]
 +++ -->
 
-
-temp
+https://www.youtube.com/watch?v=vKyC5b6u-f4&ab_channel=YouTubeMovies

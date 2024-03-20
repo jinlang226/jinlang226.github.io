@@ -1,7 +1,11 @@
 ---
-title: "temp"
-date: 2023-04-12T18:15:55-04:00
+title: "travel"
+date: 2023-04-12
 draft: false
+categories:
+  - travel
+tags:
+  - travel 
 imgname:
     name: "/img/phalaenopsis-wins-third/IMG_1548.jpg"
 ---
