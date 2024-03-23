@@ -99,4 +99,6 @@ pygmentsStyle = "native"
 
 # Sitemap location (default is /sitemap.xml)
 [sitemap]
-  filename = "sitemap.xml"
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
