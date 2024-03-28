@@ -1,5 +1,5 @@
 ---
-title: "movies"
+title: "Movies"
 date: 2024-01-01
 draft: false
 categories:
@@ -19,6 +19,7 @@ Sadly, my favorite one is the first.
 ## Little Woman
 ## Anatomy of a Fall
 ## Poor Things 
+## Past Lives
 ## The Holdovers
 ## Kung Fu Panda 4
 ## Deep Rising 2023(documentary)
