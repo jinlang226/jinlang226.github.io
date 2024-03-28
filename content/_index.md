@@ -76,7 +76,7 @@ address:
 ---
 
 # 
-I’m Jinlang Wang, a second year Computer Science PhD student at the University of Wisconsin-Madison, advised by the wonderful [Tej Chajed](https://www.chajed.io/). I am boradly interested in formal verification, especially distributed systems verification. I use Forge to verify distributed protocols like 2pc and Paxos. Also, I am learning Dafny, Coq, and Iris.
+I’m Jinlang Wang, a second year Computer Science PhD student at the University of Wisconsin-Madison, advised by the wonderful [Tej Chajed](https://www.chajed.io/). I am broadly interested in formal verification, especially distributed systems verification. I use Forge to verify distributed protocols like 2pc and Paxos. Also, I am learning Dafny, Coq, and Iris.
 
 ## Education
 - **[in-progress] PhD** University of Wisconsin, Madison, 2022-?
@@ -86,7 +86,7 @@ I’m Jinlang Wang, a second year Computer Science PhD student at the University
 
 ### Music
 
-I like to play in an [ensemble](https://www.bilibili.com/video/BV1ca4y1n71P/?spm_id_from=333.999.0.0&vd_source=568c2816195794316da4f77c9822bebe), and I am always looking for people who are willing to play in an ensemble with me. My favorite composer is Franz Liszt, and I really like his [Hungarian Rhapsody No. 2](https://www.youtube.com/watch?v=QpEfHVFilRc&ab_channel=WBKids) which took me half a year to master two-thirds of it. I hope to complete the final third when I have time... Yuja Wang is my favorite pianist, and we share the same hometown. I was very fortunate to see her [play in Orlando](https://parkavemagazine.com/event/yuja-wang-plays-rachmaninoff-jan-14/#:~:text=January%2014%2C%202023%20%40%207%3A,30%20pm%20%2D%209%3A30%20pm&text=Phillips%20Center.,with%20Rachmaninoff's%20First%20Piano%20Concerto!). 
+I like to play in an [ensemble](https://www.bilibili.com/video/BV1ca4y1n71P/?spm_id_from=333.999.0.0&vd_source=568c2816195794316da4f77c9822bebe), and I am always looking for people who are willing to play in an ensemble with me. My favorite composer is Franz Liszt, and I really like his [Hungarian Rhapsody No. 2](https://www.youtube.com/watch?v=QpEfHVFilRc&ab_channel=WBKids) (fun fact: Tom only has four fingers, so the producer had a pianist come to play with just four fingers, and then had Tom replicate the entire set) which took me half a year to master two-thirds of it. I hope to complete the final third when I have time... Yuja Wang is my favorite pianist, and we share the same hometown. I was very fortunate to see her [play in Orlando](https://parkavemagazine.com/event/yuja-wang-plays-rachmaninoff-jan-14/#:~:text=January%2014%2C%202023%20%40%207%3A,30%20pm%20%2D%209%3A30%20pm&text=Phillips%20Center.,with%20Rachmaninoff's%20First%20Piano%20Concerto!). 
 
 ### Movies
 [A list of movies](https://jinlang226.github.io/categories/movie/) that I watched recently.

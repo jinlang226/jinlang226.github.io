@@ -1,6 +1,6 @@
 ---
-title: "travel"
-date: 2023-04-12
+title: "Florida"
+date: 2023-01-01
 draft: false
 categories:
   - travel
@@ -9,6 +9,6 @@ tags:
 imgname:
     name: "/img/phalaenopsis-wins-third/IMG_1548.jpg"
 ---
-{{< figure src="/img/phalaenopsis-wins-third/IMG_1548.jpg" >}}
+<!-- {{< figure src="/img/phalaenopsis-wins-third/IMG_1548.jpg" >}} -->
 
-temp
+asdfadfasdfs
