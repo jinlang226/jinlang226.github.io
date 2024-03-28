@@ -1,6 +1,6 @@
 ---
-title: "Florida"
-date: 2023-01-01
+title: "US West"
+date: 2022-07-01
 draft: false
 categories:
   - travel
