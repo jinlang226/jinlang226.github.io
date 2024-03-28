@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-date: 2024-01-02
+date: 2022-08-01
 draft: false
 categories:
   - travel
