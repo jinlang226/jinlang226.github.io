@@ -22,3 +22,4 @@ Three-week road trip
 - great fried yuka
 - went to Little Toot: Clearwater FL Dolphin Tours
 - ride jet-skiing 
+- flied our dji drone lots of times
