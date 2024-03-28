@@ -75,6 +75,8 @@ pygmentsStyle = "native"
     # Author of the site
     authorName = "Jinlang Wang"
     # Main image for the author. This will be the default image for SEO.
+    [params.dateFormat]
+        dateFormat = "Jan 02 2006"
     [params.imgname]
         name = "img/main.jpg"
         # Add an alt description for the image
