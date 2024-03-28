@@ -7,18 +7,10 @@ categories:
 tags:
   - movie 
 imgname:
-    name: "/img/phalaenopsis-wins-third/IMG_1548.jpg"
+    name: "/img/movie.png"
 ---
-<!-- +++
-date = "2018-05-09"
-title = "The actor is a gander"
-slug = "the-actor-is-a-gander"
-categories = [ "Post", "Metaphorsum" ]
-tags = [ "Actor", "Visitor", "Snowflakes", "Interest" ]
-headline = "A frostless stop is a stream of the mind"
-readingtime = true
-aliases = ["2021/06/actor/", "2021/08/gander/"]
-+++ -->
+{{< figure src="/img/movie.png" >}}
+
 # 2024
 ## [Hundreds of Beavers](https://www.hundredsofbeavers.com/synopsis/)
 I was fortunate to watch this movie. It was so funny.
@@ -33,6 +25,9 @@ Sadly, my favorite one is the first.
 ## My Octopus Teacher
 ## The Pig, the Snake and the Pigeon(周处除三害)
 惊艳，很久没看这么好的悬疑片了
+
+# 2023
+## Oppenheimer
 
 # TODO
 ## [Seed: The Untold Story](https://www.youtube.com/watch?v=vKyC5b6u-f4&ab_channel=YouTubeMovies)

@@ -11,7 +11,7 @@ imgname:
 ---
 {{< figure src="/img/travel/Europe.png" >}}
 
-(Salzburg, Austria was not listed in the above figure)
+Graduation Trip Part 3 (Salzburg, Austria was not listed in the above figure)
 
 My amazing three-week graduation trip!
 
@@ -19,9 +19,9 @@ My amazing three-week graduation trip!
 - really like Amsterdam (after London)
 - went to the Van Gogh Museum!!!!!
 - saw *Girl with a Pearl Earring*
-- Switzerland's beautiful scenery reminded me of Guizhou, China.
+- Switzerland's beautiful scenery reminded me of Guizhou, China
 - went to Eisriesenwelt - the largest ice cave in the world
-- watched the fireworks in Paris on France's National Day (pure coincidence).
+- watched the fireworks in Paris on France's National Day (pure coincidence)
 - visited Cologne Cathedral
-- experienced the joyful melody of DoReMi at the filming locations of the movie *The Sound of Music*.
+- experienced the joyful melody of DoReMi at the filming locations of the movie *The Sound of Music*
 - visited the Mozart Museum and listened to *the Turkish March* on the harpsichord

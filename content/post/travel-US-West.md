@@ -1,14 +1,17 @@
 ---
 title: "US West"
-date: 2022-07-01
+date: 2022-06-01
 draft: false
 categories:
   - travel
 tags:
   - travel 
 imgname:
-    name: "/img/phalaenopsis-wins-third/IMG_1548.jpg"
+    name: "/img/travel/US-West.png"
 ---
-<!-- {{< figure src="/img/phalaenopsis-wins-third/IMG_1548.jpg" >}} -->
+{{< figure src="/img/travel/US-West.png" >}}
 
-asdfadfasdfs
+Graduation Trip Part 2
+
+Unfortunately, Yellow Stone National Park was closed because of the flood, but overall the road trip was great!
+
