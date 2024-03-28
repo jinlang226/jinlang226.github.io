@@ -22,7 +22,8 @@ address:
   - 
     name: 
     locality: University of Wisconsin, Madison
-    email: jinlang.wang [at] wisc (dot) cs (dot) edu
+    email: first_name (dot) last_name (at) wisc (dot) edu
+    # jinlang a cs d wisc d edu
     # googlescholar: "https://scholar.google.com/citations?user=0d9zfcUAAAAJ&hl=en"
     linkedin: "https://www.linkedin.com/in/jinlangwang/"
     github: jinlang226
