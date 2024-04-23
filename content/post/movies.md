@@ -25,7 +25,11 @@ Sadly, my favorite one is the first.
 ## Deep Rising 2023(documentary)
 ## My Octopus Teacher
 ## The Pig, the Snake and the Pigeon(周处除三害)
-惊艳，很久没看这么好的悬疑片了
+惊艳
+## I Saw the TV Glow
+maybe I am too young to understand this movie
+## [Close Your Eyes](https://www.imdb.com/title/tt21284358/)
+## The Fall Guy 2024
 
 # 2023
 ## Oppenheimer
