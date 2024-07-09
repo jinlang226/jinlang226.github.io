@@ -30,6 +30,16 @@ Sadly, my favorite one is the first.
 maybe I am too young to understand this movie
 ## [Close Your Eyes](https://www.imdb.com/title/tt21284358/)
 ## The Fall Guy 2024
+## Humanist Vampire Seeking Consenting Suicidal Person
+I finished all seasons of The Vampire Diaries.
+## Suzume 
+I watched it on the plane from Chicago to Taipei. This is my second time in Taipei. The last time was in the summer of 2015. I walked on the same street next to the Chiang Kai-shek Memorial Hall, where I had visited with my parents. I joined a free half-day tour. It was amazing.
+## A Haunting in Venice
+## 追缉 查無此心
+垃圾
+## Heart's Motive (最后的真相)
+
+
 
 # 2023
 ## Oppenheimer
