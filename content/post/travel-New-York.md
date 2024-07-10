@@ -15,13 +15,13 @@ Graduation Trip Part 1
 
 http://www.meilvtong.com/viewthread.php?tid=40#utown
 
-May 17 二
+<!-- May 17 二
 华尔街
 看到了铜牛
 
 May 18 三
 毕业典礼
-Speaker是个gay 友是个黑的，一直在说我是gay还是黑的都能在艺术上有这样的成就blabla
+Speaker是个gay 又是个黑的，一直在说我是gay还是黑的都能在艺术上有这样的成就blabla
 Taylor的演讲挺好的，很懂年轻人的想法
 
 May 19 四 - 雨
@@ -63,7 +63,7 @@ May 划船 2am
 
 May 23
 大都会艺术博物馆 11am
-好多梵高和莫奈，乐器。还发现场馆的侧翼和中间是接不上的，一边高一边低，所以电梯秀的时候开了一个2a层，哈哈
+好多梵高和莫奈，乐器。还发现场馆的侧翼和中间是接不上的，一边高一边低，所以电梯修的时候开了一个2a层，哈哈
 
 中央公园
 https://www.xiaohongshu.com/discovery/item/61033bec00000000010297a3?source=question
@@ -73,4 +73,4 @@ https://www.dealmoon.com/guide/929565
 May 24
 回
 回程是个年轻小哥开车，还挺爱说话，说我是这里学历最高的人了，哈哈
-
+ -->
