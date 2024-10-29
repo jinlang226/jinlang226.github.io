@@ -77,11 +77,10 @@ address:
 ---
 
 # 
-I’m Jinlang Wang, a second-year Computer Science Ph.D. student at the University of Wisconsin-Madison, advised by the wonderful [Tej Chajed](https://www.chajed.io/). I am broadly interested in formal verification, especially distributed systems verification. We write a precise specification of what the system is supposed to do and prove that the implementation meets the specification.
+I’m Jinlang Wang, a second-year Computer Science Ph.D. student at the University of Wisconsin-Madison, advised by the wonderful [Tej Chajed](https://www.chajed.io/). I am broadly interested in formal verification, especially distributed systems verification. We write a precise specification of what the system is supposed to do and prove that the implementation meets the specification. Also, I am learning verification tools like Coq, Dafny, and Iris. 
 
-One of my ongoing research projects is to use formal methods on distributed protocols to help students learn distributed systems. With a combination of the right tools and explanation, can we explain what goes wrong and why a protocol works? 
+<!-- One of my ongoing research projects is to use formal methods on distributed protocols to help students learn distributed systems. With a combination of the right tools and explanation, can we explain what goes wrong and why a protocol works?  -->
 
-Also, I am learning verification tools like Coq, Dafny, and Iris. 
 
 ## Education
 - **[in-progress] PhD** University of Wisconsin, Madison, 2022-?

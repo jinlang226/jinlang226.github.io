@@ -38,6 +38,11 @@ I watched it on the plane from Chicago to Taipei. This is my second time in Taip
 ## 追缉 查無此心
 垃圾
 ## Heart's Motive (最后的真相)
+## Minions 4
+Watched it while waiting for nightfall to see the Perseid meteor shower.
+## Dead Pool
+## Inside Out 2
+I love anxiety, hahahahaha
 
 
 
